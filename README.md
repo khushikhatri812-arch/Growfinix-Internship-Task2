@@ -2,7 +2,7 @@
 <img width="960" height="504" alt="Screenshot 2026-07-18 004715" src="https://github.com/user-attachments/assets/264c78ee-97cc-4de0-a184-f046b13934c9" />
 <img width="960" height="504" alt="Screenshot 2026-07-18 004659" src="https://github.com/user-attachments/assets/833f288f-88fa-47a9-9bd6-fc348e3889e9" />
 <img width="960" height="504" alt="Screenshot 2026-07-18 004633" src="https://github.com/user-attachments/assets/ccdc9810-5a2b-4add-9435-1df890186475" />
-<img width="960" height="504" alt="Screenshot 2026-07-17 184542" src="https://github.com/user-attachments/assets/7bf10c10-6c94-407b-8964-42e49f362506" />
+
 # Phishing-Simulation-Campaign
 
 A complete, end-to-end phishing simulation campaign environment using *GoPhish* and *MailHog*. This project was developed to understand security awareness workflows, email tracking, and credential capturing in a controlled local environment.
